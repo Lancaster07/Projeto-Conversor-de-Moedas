@@ -80,7 +80,7 @@ if (currencySelect.value == "euro") {
 
 if (currencySelect.value == "cad") {
     currencyName.innerHTML = "Dólar Canadense"
-    currencyImage.src = "./assets/canada.avif"
+    currencyImage.src = "./assets/canada.png"
     currencyValue.innerHTML = "CA$ 0,00"
 }
 
